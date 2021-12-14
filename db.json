@@ -1,8 +1,8 @@
 {
-  "users": [
+  "users": 
     { "id": 1,
      "firstname": "satish",
      "lastname": "jayaseelan"}   
-  ],
+ 
  
 }
